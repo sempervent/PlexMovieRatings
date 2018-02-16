@@ -161,7 +161,7 @@ server <- function(input, output) {
    })
 
 
-   output$rating_table <- renderDT(dt())
+   output$rating_table <- renderDT(dat())
 }
 
 # Run the application 
