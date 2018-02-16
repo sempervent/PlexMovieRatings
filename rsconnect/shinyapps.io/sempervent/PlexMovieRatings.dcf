@@ -1,0 +1,13 @@
+name: PlexMovieRatings
+title: PlexMovieRatings
+username:
+account: sempervent
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 282816
+bundleId: 1225793
+url: https://sempervent.shinyapps.io/PlexMovieRatings/
+when: 1518761707.62541
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: cowplot_0.9.2.tar.gz
